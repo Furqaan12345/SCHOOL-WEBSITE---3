@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background: white important!;
 }
 html {
  scroll-behavior: smooth;
@@ -28,7 +28,7 @@ html {
 
 input
 {
-    background: grey
+    background: white;
 }
 
 .announcement{
